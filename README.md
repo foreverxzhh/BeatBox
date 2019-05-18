@@ -9,3 +9,5 @@ Demo3 for 《Android编程权威指南》</br>
 2.使用Mockito和Hamcrest进行单元测试</br>
 3.Fragment保留</br>
 4.SeekBar的使用
+<h3>Capter22 重要知识点</h3>
+1.主题和样式的使用</br>
