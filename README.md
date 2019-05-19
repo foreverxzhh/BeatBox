@@ -11,3 +11,6 @@ Demo3 for 《Android编程权威指南》</br>
 4.SeekBar的使用
 <h3>Capter22 重要知识点</h3>
 1.主题和样式的使用</br>
+<h3>Capter23 重要知识点</h3>
+1.shape drawable、state list drawable和layer list drawable</br>
+2.9-patch（.9.png）图片的使用
